@@ -1,0 +1,17 @@
+1
+00:00:10,340 --> 00:00:25,560
+Ava: Let's focus on the app's performance optimization today. I suggest we start with lazy loading of images to speed up page load times.
+
+2
+00:00:26,610 --> 00:00:35,720
+Noah: Lazy loading sounds good. We should also minimize and compress our JavaScript and CSS files to further improve load times.
+
+3
+00:00:36,780 --> 00:00:44,890
+Olivia: Both great points! I’d like to add that using a Content Delivery Network (CDN) for our static assets could significantly reduce latency.
+
+Facts at the end of the day (2024-03-17):
+
+The team has decided to implement lazy loading for images to improve page load times.
+The team plans to minimize and compress JavaScript and CSS files for performance.
+The team agrees to use a Content Delivery Network (CDN) for static assets to reduce latency.
