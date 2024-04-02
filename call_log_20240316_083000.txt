@@ -1,0 +1,11 @@
+1
+00:00:15,230 --> 00:00:32,450
+Liam: Good morning, everyone. Let's dive into the security features for our app. I strongly believe we should implement two-factor authentication (2FA) to enhance user security.
+
+2
+00:00:33,510 --> 00:00:42,620
+Sophia: I agree with Liam on the importance of 2FA. Additionally, considering data privacy, we should also encrypt user data both at rest and in transit.
+
+3
+00:00:43,700 --> 00:00:51,810
+Mason: Encryption is a must-have, Sophia. I propose we use AES-256 for data encryption. It’s currently one of the strongest standards available.

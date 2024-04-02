@@ -1,0 +1,11 @@
+1
+00:00:05,200 --> 00:00:20,410
+Ethan: As we're expanding globally, we need to consider internationalization. Let's start by making our app support multiple languages.
+
+2
+00:00:21,470 --> 00:00:30,580
+Isabella: Absolutely, Ethan. And don't forget about localizing dates, times, and currencies to match the user's locale preferences.
+
+3
+00:00:31,640 --> 00:00:39,750
+Lucas: To complement that, we should also think about right-to-left (RTL) text support for languages like Arabic and Hebrew.
